@@ -1,0 +1,11 @@
+
+// Polymorphism in Java refers to the ability of a single method, field, or class to operate in different ways depending on the context.
+
+// Types : 
+
+Method Overloading or Compile-time polymorphism :
+-> We can overload main method of java
+-> we can overload constructors.
+
+Method OverRiding or Run-time polymorphism : 
+-> we cannot override the main method

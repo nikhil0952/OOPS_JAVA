@@ -1,0 +1,12 @@
+// Inheritance : child class inherits properties of parent class.
+
+Keyword : extends 
+
+// Types : 
+-> Multilevel 
+-> Single 
+-> Hierarichal
+
+// Multiple inheritance not supported : diamond problem
+
+
