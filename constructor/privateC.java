@@ -1,4 +1,4 @@
-// Private constructor : if we have private constructor then we can create instance of that class outside the class
+// Private constructor : if we have private constructor then we cannot  create instance of that class outside the class
 
 package constructor;
 
