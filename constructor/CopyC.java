@@ -1,3 +1,14 @@
+/*
+There is no copy constructor in java. But, we can copy the values of one object to another like copy constructor in C++.
+
+There are many ways to copy the values of one object into another in java. They are:
+o By constructor
+o By assigning the values of one object into another 
+o By clone() method of Object class
+
+*/
+
+
 package constructor;
 
 public class CopyC {
